@@ -42,7 +42,7 @@ dist/
 build/
 
 # Dataset
-gov_myscheme/
+gov_myscheme/text_data/
 data/extracted_text/
 data/*.csv
 
