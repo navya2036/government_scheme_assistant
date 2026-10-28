@@ -40,3 +40,15 @@ lerna-debug.log*
 frontend/dist/
 dist/
 build/
+
+# Dataset
+gov_myscheme/
+data/extracted_text/
+data/*.csv
+
+# Generated RAG artifacts
+data/*.npy
+data/*.faiss
+data/*.sqlite
+data/chunks.jsonl
+data/embeddings_metadata.jsonl
