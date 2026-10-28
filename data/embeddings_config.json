@@ -1,0 +1,26 @@
+{
+  "artifact_type": "chunk_embeddings",
+  "model": "intfloat/multilingual-e5-small",
+  "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "library": "sentence-transformers",
+  "embedding_dimension": 384,
+  "dtype": "float32",
+  "normalize_embeddings": true,
+  "batch_size": 32,
+  "device": "cpu",
+  "seed": 0,
+  "torch_threads": 1,
+  "input_file": "data/chunks.jsonl",
+  "input_file_sha256": "8f0c9106b07b4306b057e00a6cfa9d63e88a962c1e5f847f1bbe6c2b296125a2",
+  "input_chunk_count": 23928,
+  "embedded_chunk_count": 23928,
+  "failed_embeddings": 0,
+  "missing_embeddings": 0,
+  "duplicate_chunk_ids": 0,
+  "semantic_input": "passage: Scheme: <scheme_name> + newline + <text>; source filename excluded",
+  "row_mapping": {
+    "vectors": "data/embeddings.npy",
+    "metadata": "data/embeddings_metadata.jsonl",
+    "same_zero_based_row_index": true
+  }
+}

@@ -1,0 +1,19 @@
+# Core API & Server
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.8.0
+httpx>=0.27.0
+
+# Vector Index & Search
+numpy>=1.26.0,<3.0.0
+faiss-cpu>=1.8.0
+
+# Embeddings & Reranking Models
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+torch>=2.2.0
+
+# Document Processing & Data Pipeline
+pymupdf>=1.24.0
+pandas>=2.2.0
+tqdm>=4.66.0

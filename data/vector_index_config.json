@@ -1,0 +1,81 @@
+{
+  "artifact_type": "vector_index",
+  "index_backend": "faiss",
+  "faiss_version": "1.15.1",
+  "index_type": "IndexFlatIP",
+  "metric": "inner_product",
+  "similarity": "cosine: document vectors are L2-normalized, so inner product equals cosine similarity",
+  "dimension": 384,
+  "vector_count": 23928,
+  "dtype": "float32",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "embedding_model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "embedding_config_file": "data/embeddings_config.json",
+  "embeddings_file": "data/embeddings.npy",
+  "embeddings_sha256": "03f46ae8c8680d4777646be1033bec998aa091a1ec97145b87480cc743cdf7ee",
+  "embedding_metadata_file": "data/embeddings_metadata.jsonl",
+  "embedding_metadata_sha256": "8f0c9106b07b4306b057e00a6cfa9d63e88a962c1e5f847f1bbe6c2b296125a2",
+  "chunks_file": "data/chunks.jsonl",
+  "chunks_sha256": "8f0c9106b07b4306b057e00a6cfa9d63e88a962c1e5f847f1bbe6c2b296125a2",
+  "index_file": "data/vector_index.faiss",
+  "index_sha256": "c073bfbcd32d1b653ae0b0012e50ebd1795d7ba87058da7a2265a4c543913156",
+  "metadata_database_file": "data/vector_index_metadata.sqlite",
+  "metadata_database_logical_sha256": "286c295f485576a4b4924ebde45f709e06e33f1f39788eb625b2f90626af9b8c",
+  "metadata_rows": 23928,
+  "metadata_columns": [
+    "chunk_id",
+    "sha256",
+    "scheme_name",
+    "department",
+    "state",
+    "beneficiaries",
+    "source_file",
+    "page_start",
+    "page_end",
+    "text"
+  ],
+  "filterable_columns": [
+    "scheme_name",
+    "department",
+    "state",
+    "source_file",
+    "page_start",
+    "page_end"
+  ],
+  "field_coverage": {
+    "chunks_with_empty_state": 12212,
+    "chunks_with_empty_department": 91
+  },
+  "row_alignment": {
+    "faiss_id": "zero-based row index of data/embeddings.npy",
+    "metadata_key": "chunks.row_id",
+    "embedding_metadata_line": "1-based line number == row_id + 1",
+    "chunk_record": "data/chunks.jsonl line row_id + 1",
+    "verified": true
+  },
+  "retrieval_contract": {
+    "document_prefix": "passage: ",
+    "document_format": "passage: Scheme: {scheme_name}\n{text}",
+    "query_prefix": "query: ",
+    "query_format": "query: {user_question}",
+    "normalize_query_embeddings": true,
+    "query_model": "intfloat/multilingual-e5-small",
+    "query_model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "note": "e5 requires asymmetric prefixes: documents were embedded with 'passage: ' and queries MUST be embedded with 'query: '. Query vectors must be L2-normalized before inner-product search."
+  },
+  "build": {
+    "python": "3.10.0",
+    "numpy": "2.2.6",
+    "seed": 0,
+    "omp_threads": 1,
+    "deterministic": true,
+    "profile": "exact brute-force search over all vectors (no ANN training)"
+  },
+  "self_query_probes": [
+    0,
+    1,
+    11964,
+    23926,
+    23927
+  ]
+}

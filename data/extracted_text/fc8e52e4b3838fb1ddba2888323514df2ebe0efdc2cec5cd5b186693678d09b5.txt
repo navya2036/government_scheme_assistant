@@ -1,0 +1,84 @@
+# sha256: fc8e52e4b3838fb1ddba2888323514df2ebe0efdc2cec5cd5b186693678d09b5
+# relative_path: spk.pdf
+# filename: spk.pdf
+
+===== PAGE 1 =====
+Sinchai Pipeline KaryakramAre you sure you want to sign out?CancelSign OutEngEnglish/à¤¹à¤¿à¤‚à¤¦à¥€Sign
+InBackDetailsBenefitsEligibilityApplication ProcessDocuments RequiredFrequently Asked QuestionsSources And
+ReferencesFeedbackSomething went wrong. Please try again later.OkYou need to sign in before applying for schemesCancelSign
+InSomething went wrong. Please try again later.OkIt seems you have already initiated your application earlier.To know more please visit
+CancelApply NowCheck EligibilityRajasthanSinchai Pipeline KaryakramAgricultureDevelopmentIrrigationPipe LineDetails The
+"Sinchai Pipeline Karyakram" under The Agriculture Department of the Rajasthan government will provide subsidy to farmers on
+purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many
+farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack
+of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this
+direction, considering the problems of farmers.ï»¿Feature :Farmers will be eligible for a grant only if they purchase BIS-marked pipes
+from a manufacturer or their authorized distributor/seller registered with the Agriculture Department, either in cash or by taking a loan
+from a bank, and successfully install them on their farm.Each pipe distributed on a grant basis must be embossed with the year of
+manufacture and the grant distribution year. The grant will be admissible only on pipes manufactured and sold in the eligible year.
+Additionally, the grant will be admissible on the remaining pipes from the previous year in the next financial year as well.The concerned
+manufacturer will necessarily provide information about the remaining stock of the previous financial year to the Deputy Director and
+Assistant Director of Agriculture (Ext.) office in the district. The grant will not be admissible in the absence of information.In the
+financial year, the list of maximum retail price (MRP) of pipes will be sent by the pipe manufacturers to the Deputy Director and
+Assistant Director of Agriculture (Ext.) office through selected dealers in the district. The dealer will also submit an affidavit that no bill
+will be charged more than the MRP.ï»¿ComponentComponentIce. CodeDescriptionPipelinePipe4984 /14151 Pt I & II : 199H.D.P.E.
+irrigation pipePipelinePipe4985 Â¼4 kg/cm2 &63 Â¼2-5 kg/cm2 &90 mm and above Â½PVC for water supply. irrigation
+pipePipelinePipeIS 16190 : 2014 Â¼ 63 mm and above and 200 mm and above Â½HDPE High Density Polyethylene Laminated Knitted
+Flat Tube Irrigation Pipe for Water Supplyï»¿ï»¿The subsidy will be payable only on pipes of diameter 63 mm or more than 63
+mm.BenefitsCost of transporting water: 50% of the cost (capped at â‚¹1000/-).Pipe material cost:HDPE pipe: â‚¹50 per meter (capped at
+â‚¹15,000/- total).PVC pipe: â‚¹35 per meter (capped at â‚¹15,000/- total).HDPE laminated flat tube pipe: â‚¹20 per meter (capped at
+â‚¹15,000/- total).EligibilityThe agricultural land should be owned by the applicant.The applicant must be a farmer residing in
+Rajasthan.This scheme applies to farmers who have a diesel engine, electric pump, or tractor-driven pump set available on a borewell or
+well.Applicants must own at least 2 bighas of cultivable agricultural land.The farmer's bank account must be linked to an Aadhar card.
+Additionally, no farmer can apply again for the next 10 years after receiving the benefit.Farmers must apply for the grant within 30 days
+of purchasing the pipe and after this timeframe will not be considered.Application ProcessOnlineRegistrationStep-1: Applicant have to
+visit the official portal. Step-2: Click on the option â€œRegisterâ€​.Step-3: Then you will be redirected to the SSO registration page. The
+registration page will appear with the following options. CitizenStep-4: Choose the either one option from the Jan Aadhaar Or Google to
+process further.Jan Aadhaar : Enter the Jan Aadhaar number, click on the â€˜Nextâ€™ button,Select your name, the name of the head of
+the family and all the other members and Click on the â€˜Send OTPâ€™ button. Enter the â€˜OTPâ€™ and Click on the â€˜Verify
+OTPâ€™ button to Complete the registration. Google : Enter the Gmail ID, click on the â€˜Nextâ€™ button, Enter the password.A new
+link appear on screen, now click on new SSO link.SSO id will appear on screen, now create the password.Enter Mobile number, click on
+registration.Step-5: Complete the registration process.ï»¿ApplyStep-1: Applicant have to visit the official portal. Step-2: After login,
+dashboard will open.Step-3: Click on â€œ RAJ-KISAN â€​ option. Step-4: In "Citizen", click on "Application Entry Request".Step-5:
+Enter the "Bhamashah ID" or "Janaadhaar ID" and search. Step-6: Select the person name and scheme name. Step-7: Complete the
+Aadhaar Authentication and click on Get details. Step-8: Provide the required details. - Pensioner Details. - Bank Details. - Disability
+Details. - Verification Details. - Upload Documents.Step-9: Submit.ï»¿Documents RequiredPassport size photo.Copy of Aadhar
+Card.Copy of Jamabandi or Jamabandi.Copy of Bank Passbook.Frequently Asked QuestionsWhat is the objective of the scheme?
+Rajasthan Government will provide subsidy to the farmers on purchasing irrigation pipeline and try to reduce the financial burden. May
+Other State persons also apply for this scheme?No, this scheme only for Rajasthan.What documents are required ?1. Passport size photo.
+2. Copy of Aadhar Card. 3. Copy of Jamabandi or Jamabandi. 4. Copy of Bank Passbook.What is DBT?Direct Benefit Transfer (DBT)
+was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the
+beneficiaries of various Government schemes.Is there an application fee?Application form is free for Irrigation Pipe Line Program.What
+is IFSC code?IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that
+deal with online fund transfers.How do a applicant know if a field in the application form is mandatory?A distinctive sign (â€œ*â€​
+symbol, â€œmandatoryâ€​ mention, etc.)Is this scheme for Urban area?Yes, Urban and Rural both can apply for this scheme.Can
+applicant fill the application form in a language other than English?No, applicant can fill only in English language.What is office web to
+apply for the scheme benefits?Follow the below url. Link : https://sso.rajasthan.gov.in/signinSources And ReferencesGuidelinesScheme
+DetailsRegistrationLoginOkWas this helpful?News and UpdatesNo new news and updates availableShareSomething went wrong. Please
+try again later.OkYou need to sign in before applying for schemesCancelSign InSomething went wrong. Please try again later.OkIt
+seems you have already initiated your application earlier.To know more please visit CancelApply NowCheck EligibilityRajasthanSinchai
+Pipeline KaryakramAgricultureDevelopmentIrrigationPipe LineDetailsBenefitsEligibilityApplication ProcessDocuments
+RequiredFrequently Asked Questions The "Sinchai Pipeline Karyakram" under The Agriculture Department of the Rajasthan government
+will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their
+income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to
+which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by
+the Central and State Governments. In this direction, considering the problems of farmers.ï»¿Feature :Farmers will be eligible for a grant
+only if they purchase BIS-marked pipes from a manufacturer or their authorized distributor/seller registered with the Agriculture
+Department, either in cash or by taking a loan from a bank, and successfully install them on their farm.Each pipe distributed on a grant
+basis must be embossed with the year of manufacture and the grant distribution year. The grant will be admissible only on pipes
+manufactured and sold in the eligible year. Additionally, the grant will be admissible on the remaining pipes from the previous year in
+the next financial year as well.The concerned manufacturer will necessarily provide information about the remaining stock of the
+previous financial year to the Deputy Director and Assistant Director of Agriculture (Ext.) office in the district. The grant will not be
+admissible in the absence of information.In the financial year, the list of maximum retail price (MRP) of pipes will be sent by the pipe
+manufacturers to the Deputy Director and Assistant Director of Agriculture (Ext.) office through selected dealers in the district. The
+dealer will also submit an affidavit that no bill will be charged more than the MRP.ï»¿ComponentComponentIce.
+CodeDescriptionPipelinePipe4984 /14151 Pt I & II : 199H.D.P.E. irrigation pipePipelinePipe4985 Â¼4 kg/cm2 &63 Â¼2-5 kg/cm2
+&90 mm and above Â½PVC for water supply. irrigation pipePipelinePipeIS 16190 : 2014 Â¼ 63 mm and above and 200 mm and above
+Â½HDPE High Density Polyethylene Laminated Knitted Flat Tube Irrigation Pipe for Water Supplyï»¿ï»¿The subsidy will be payable
+
+===== PAGE 2 =====
+only on pipes of diameter 63 mm or more than 63 mm.OkWas this helpful?ShareNews and UpdatesNo new news and updates
+availableÂ©2024Powered byDigital India Corporation(DIC)Ministry of Electronics & IT (MeitY)Government of IndiaÂ®Quick
+LinksAbout UsContact UsScreen ReaderAccessibility StatementFrequently Asked QuestionsDisclaimerTerms & ConditionsUseful
+LinksGet in touch4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, Indiasupport-
+myscheme[at]digitalindia[dot]gov[dot]in(011) 24303714Last Updated On : 28/03/2024 | v-2.1.1
